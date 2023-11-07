@@ -1,6 +1,8 @@
 <!-- # Leo Battleship 🏴‍☠️ -->
 <img alt="workshop/battleship" width="1412" src="../.resources/battleship.png">
 
+My Discord: marioburgalin#1794
+
 - [Summary](#summary)
 - [Build](#how-to-build)
 - [Run](#how-to-run)
